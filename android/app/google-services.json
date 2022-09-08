@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "903789705778",
+    "project_id": "hashmicro-test",
+    "storage_bucket": "hashmicro-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903789705778:android:0f24fc9143eec7790eda2b",
+        "android_client_info": {
+          "package_name": "com.example.hash_micro_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903789705778-fdqcldmudecvq87fkr7f4f0r8jqitsc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmrTLHLJHuCb68Gl5askjujOJ8KcuH0qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903789705778-fdqcldmudecvq87fkr7f4f0r8jqitsc4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "903789705778-se9d97cvp38271ep7ugp1us2ihdjsk4g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hashMicroTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

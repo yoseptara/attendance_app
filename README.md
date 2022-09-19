@@ -1,6 +1,4 @@
-# hash_micro_test
-
-Attendance App
+Simple Attendance App
 
 ## Getting Started
 

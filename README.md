@@ -1,4 +1,4 @@
-#Simple Attendance App
+# Simple Attendance App
 
 ## Getting Started
 
